@@ -1,2 +1,2 @@
-# WindysRWModsDatabse
-rain world stuff to be stored lol
+# Windy's Rain World Mod Database
+Storing all the stuff here!
